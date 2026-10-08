@@ -1,6 +1,7 @@
+---
 layout: page
 title: "Proposal"
-permalink: /proposal
-
-#Title
+permalink: /proposal/
+---
+# Title
 Test
